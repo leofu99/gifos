@@ -3,7 +3,7 @@
 ### Aplicación web interactiva para compartir GIFs animados
 <br>
 
-[Link a la demo](https://gifos-agostina.netlify.app/)
+[Link a la demo](https://leofu99.github.io/gifos/)
 
 #### Trabajo práctico cierre de bloque de Acámica.
 
