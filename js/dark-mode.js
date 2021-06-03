@@ -31,6 +31,7 @@ const setLocalStorageTheme = () => {
 		$celuloide.src = 'assets/pelicula-modo-noc.svg';
 	} else {
 		document.body.classList.remove('darkMode');
+		
 		$switchThemeBtn.textContent = 'Modo Nocturno';
 	}
 };
