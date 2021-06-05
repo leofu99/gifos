@@ -69,27 +69,27 @@
 		}
 
 		.download {
-			background: url('/assets/icon-download.svg') center no-repeat;
+			background: url('//assets/icon-download.svg') center no-repeat;
 
 			&:hover {
-				background: url('/assets/icon-download-hover.svg') center
+				background: url('//assets/icon-download-hover.svg') center
 					no-repeat;
 			}
 		}
 
 		.maximize {
-			background: url('/assets/icon-max-normal.svg') center no-repeat;
+			background: url('//assets/icon-max-normal.svg') center no-repeat;
 
 			&:hover {
-				background: url('/assets/icon-max-hover.svg') center no-repeat;
+				background: url('//assets/icon-max-hover.svg') center no-repeat;
 			}
 		}
 
 		.remove {
-			background: url('/assets/icon-trash-normal.svg') center no-repeat;
+			background: url('//assets/icon-trash-normal.svg') center no-repeat;
 
 			&:hover {
-				background: url('/assets/icon-trash-hover.svg') center no-repeat;
+				background: url('//assets/icon-trash-hover.svg') center no-repeat;
 			}
 		}
 
