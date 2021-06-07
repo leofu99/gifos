@@ -57,14 +57,14 @@
 		}
 
 		.favorite {
-			background: url('../assets/icon-fav.svg') center no-repeat;
+			background: url('/assets/icon-fav.svg') center no-repeat;
 
 			&:hover {
-				background: url('../assets/icon-fav-hover.svg') center no-repeat;
+				background: url('/assets/icon-fav-hover.svg') center no-repeat;
 			}
 
 			&:active {
-				background: url('../assets/icon-fav-active.svg') center no-repeat;
+				background: url('/assets/icon-fav-active.svg') center no-repeat;
 			}
 		}
 
@@ -212,46 +212,46 @@
 }
 
 .downloadMax {
-	background: url('/assets/icon-download.svg') center no-repeat;
+	background: url('assets/icon-download.svg') center no-repeat;
 
 	&:hover {
-		background: url('/assets/icon-download-hover.svg') center no-repeat;
+		background: url('assets/icon-download-hover.svg') center no-repeat;
 	}
 }
 
 .favoriteMax {
-	background: url('/assets/icon-fav.svg') center no-repeat;
+	background: url('assets/icon-fav.svg') center no-repeat;
 
 	&:hover {
-		background: url('/assets/icon-fav-hover.svg') center no-repeat;
+		background: url('assets/icon-fav-hover.svg') center no-repeat;
 	}
 
 	&:active {
-		background: url('/assets/icon-fav-active.svg') center no-repeat;
+		background: url('assets/icon-fav-active.svg') center no-repeat;
 	}
 }
 
 .removeMax {
-	background: url('/assets/icon-trash-normal.svg') center no-repeat;
+	background: url('assets/icon-trash-normal.svg') center no-repeat;
 
 	&:hover {
-		background: url('/assets/icon-trash-hover.svg') center no-repeat;
+		background: url('assets/icon-trash-hover.svg') center no-repeat;
 	}
 }
 
 .linkOverlay {
-	background: url('/assets/icon-link-normal.svg') center no-repeat;
+	background: url('assets/icon-link-normal.svg') center no-repeat;
 
 	&:hover {
-		background: url('/assets/icon-link-hover.svg') center no-repeat;
+		background: url('assets/icon-link-hover.svg') center no-repeat;
 	}	
 }
 
 .downloadOverlay {
-	background: url('/assets/icon-download.svg') center no-repeat;
+	background: url('assets/icon-download.svg') center no-repeat;
 
 	&:hover {
-		background: url('/assets/icon-download-hover.svg') center
+		background: url('assets/icon-download-hover.svg') center
 			no-repeat;
 	}
 }
