@@ -1045,31 +1045,31 @@ body.darkMode .crearGif .pagination .step {
     cursor: pointer;
   }
   .gif__container .favorite {
-    background: url("/gifos/assets/icon-fav.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-fav.svg") center no-repeat;
   }
   .gif__container .favorite:hover {
-    background: url("/gifos/assets/icon-fav-hover.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-fav-hover.svg") center no-repeat;
   }
   .gif__container .favorite:active {
-    background: url("/gifos/assets/icon-fav-active.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-fav-active.svg") center no-repeat;
   }
   .gif__container .download {
-    background: url("/gifos/assets/icon-download.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-download.svg") center no-repeat;
   }
   .gif__container .download:hover {
-    background: url("/gifos/assets/icon-download-hover.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-download-hover.svg") center no-repeat;
   }
   .gif__container .maximize {
-    background: url("/gifos/assets/icon-max-normal.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-max-normal.svg") center no-repeat;
   }
   .gif__container .maximize:hover {
-    background: url("/gifos/assets/icon-max-hover.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-max-hover.svg") center no-repeat;
   }
   .gif__container .remove {
-    background: url("/gifos/assets/icon-trash-normal.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-trash-normal.svg") center no-repeat;
   }
   .gif__container .remove:hover {
-    background: url("/gifos/assets/icon-trash-hover.svg") center no-repeat;
+    background: url("https://leofu99.github.io/gifos/assets/icon-trash-hover.svg") center no-repeat;
   }
   .gif__container .gif__info {
     position: absolute;
@@ -1210,46 +1210,46 @@ body.darkMode .gif__info {
 }
 
 .downloadMax {
-  background: url("/gifos/assets/icon-download.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-download.svg") center no-repeat;
 }
 
 .downloadMax:hover {
-  background: url("/gifos/assets/icon-download-hover.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-download-hover.svg") center no-repeat;
 }
 
 .favoriteMax {
-  background: url("/gifos/assets/icon-fav.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-fav.svg") center no-repeat;
 }
 
 .favoriteMax:hover {
-  background: url("/gifos/assets/icon-fav-hover.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-fav-hover.svg") center no-repeat;
 }
 
 .favoriteMax:active {
-  background: url("/gifos/assets/icon-fav-active.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-fav-active.svg") center no-repeat;
 }
 
 .removeMax {
-  background: url("/gifos/assets/icon-trash-normal.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-trash-normal.svg") center no-repeat;
 }
 
 .removeMax:hover {
-  background: url("/gifos/assets/icon-trash-hover.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-trash-hover.svg") center no-repeat;
 }
 
 .linkOverlay {
-  background: url("/gifos/assets/icon-link-normal.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-link-normal.svg") center no-repeat;
 }
 
 .linkOverlay:hover {
-  background: url("/gifos/assets/icon-link-hover.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-link-hover.svg") center no-repeat;
 }
 
 .downloadOverlay {
-  background: url("/gifos/assets/icon-download.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-download.svg") center no-repeat;
 }
 
 .downloadOverlay:hover {
-  background: url("/gifos/assets/icon-download-hover.svg") center no-repeat;
+  background: url("https://leofu99.github.io/gifos/assets/icon-download-hover.svg") center no-repeat;
 }
 /*# sourceMappingURL=styles.css.map */
