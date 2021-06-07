@@ -1045,13 +1045,13 @@ body.darkMode .crearGif .pagination .step {
     cursor: pointer;
   }
   .gif__container .favorite {
-    background: url("/assets/icon-fav.svg") center no-repeat;
+    background: url("../assets/icon-fav.svg") center no-repeat;
   }
   .gif__container .favorite:hover {
-    background: url("/assets/icon-fav-hover.svg") center no-repeat;
+    background: url("../assets/icon-fav-hover.svg") center no-repeat;
   }
   .gif__container .favorite:active {
-    background: url("/assets/icon-fav-active.svg") center no-repeat;
+    background: url("../assets/icon-fav-active.svg") center no-repeat;
   }
   .gif__container .download {
     background: url("/assets/icon-download.svg") center no-repeat;
