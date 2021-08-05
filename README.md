@@ -11,7 +11,8 @@
 * Carrera: Full Stack
 
 #### Objetivos
-El desafío consiste en la creación de una aplicación web interactiva para compartir GIFs animados, poniendo en práctica los _fundamentos de la programación_ y el uso de _JavaScript mediante la obtención de datos de la API_ de Giphy, trabajando con _asincronismo_ y aprovechando herramientas nativas del explorador como la obtención de imágenes a través de la webcam.
+El desafío consiste en la creación de una aplicación web interactiva para compartir GIFs animados, poniendo en práctica los _fundamentos de la programación_ y el uso de _JavaScript mediante la obtención de datos de la API_ de Giphy, trabajando con _asincronismo_ y aprovechando herramientas nativas del explorador como la obtención de imágenes a través de la webcam
+Con el desarrollo de esta aplicación web logré fortalecer mis conocimientos en JavaScript.
 
 #### Lenguajes
 * HTML5
